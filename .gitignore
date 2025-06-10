@@ -1,0 +1,5 @@
+venv
+.DS_Store
+app.yaml
+__pycache__
+dist
